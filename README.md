@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ruchitha Bogireddi. I am a junior at the University of Minnesota studying computer science and UX design. 
 - I am interested in the intersection of technology and art. 
-- Feel free to reach out to me on Linedin! 
+- Feel free to reach out to me on LinkedIn!
 
 
 <!---
